@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "Positivity-bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Bringing Positivity and Sunshine to Slack.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
